@@ -1,10 +1,10 @@
-[![MasterHead](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)](https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)]
 <h1 align="center">Hi 👋, I'm Hari Arunachalam</h1>
 <h3 align="center">Cloud Computing Enthusiast | Data Analyst | Innovating with Python & SQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari-arunachalam&label=Profile%20views&color=0e75b6&style=flat" alt="Hari-Arunachalam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hari-Arunachalam](https://github.com/Hari-Arunachalam)
+- 👨‍💻 All of my projects are available at [https://github.com/Hari-Arunachalam](https://github.com/Hari-Arunachalam?tab=projects)
 
 - 📫 How to reach me hari.arunachalam01@gmail.com
 
