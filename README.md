@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari-arunachalam&label=Profile%20views&color=0e75b6&style=flat" alt="Hari-Arunachalam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hari-Arunachalam](https://github.com/Hari-Arunachalam?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/Hari-Arunachalam](https://github.com/Hari-Arunachalam?tab=repositories)
 
 - 📫 How to reach me hari.arunachalam01@gmail.com
 
